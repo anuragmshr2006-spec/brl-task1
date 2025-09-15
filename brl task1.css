@@ -629,4 +629,72 @@ body {
   line-height: 24px;
   border: 1px;
 }
+footer{
+    background-color: black;
+}
+.footer-right h4{
+    color: hsl(0, 15%, 90%);
+    margin-left: auto;
+}
+.footer-left p{
+    color:rgba(232, 223, 223,0.50);
+    align-content: center;
+}
 
+footer div{
+    display: inline-block;
+    margin-left: 50px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.footer-left{
+    justify-content: start;
+}
+.footer-right{
+    /* margin-top: 50px;
+    line-height: 25px; */
+    margin:auto;
+}
+.footer-left h2{
+    color: white;
+}
+button{
+    border-radius: 25px;
+}
+footer p{
+    align-content: center;
+}
+.footer-left h4,p{
+    margin: 40px 60px 100px 75px;
+}
+.footer-right div ul li a{
+    color: rgba(237, 230, 230,0.75);
+}
+.subscribe-box{
+    border-radius: 25px;
+}
+
+ input[type="text"],
+input[type="email"] {
+     border-radius:25px ;
+    }
+ 
+ #row1
+ {
+    padding-left: 100px;
+ }
+ #rh1{
+    padding-left: 100px;
+ }
+ #row2{
+    padding-left: 130px;
+ }
+ #rh2{
+    padding-left: 125px;
+ }
+ #row3{
+    padding-left: 160px;
+ }
+ #rh3{
+    padding-left: 155px;
+ }
